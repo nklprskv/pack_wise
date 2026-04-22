@@ -1,0 +1,7 @@
+.git
+.idea
+tmp
+postgres_data
+.env
+frontend/node_modules
+frontend/dist
